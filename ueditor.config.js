@@ -5,7 +5,7 @@
     var URL = 'http://ueditor.baidu.com/ueditor/';
     window.UEDITOR_CONFIG = {
         UEDITOR_HOME_URL: URL
-        , serverUrl: URLM + "php/controller.php"
+        , serverUrl: "http://www.ipbbs.net/ueditor/php/controller.php"
         , toolbars: [["fullscreen","simpleupload","insertcode","horizontal","forecolor","fontsize","bold",]]
     };
 
