@@ -562,6 +562,7 @@ html, body, .pun table, .pun div, .pun form, .pun p, .pun h1, .pun h2, .pun h3, 
 
 .pun .blocktable .tcl {
 	width: auto;
+    height: 25px;
 }
 
 .pun .blocktable .tc2, .pun .blocktable .tc3, .pun .blocktable .tcmod {
@@ -635,6 +636,7 @@ html, body, .pun table, .pun div, .pun form, .pun p, .pun h1, .pun h2, .pun h3, 
 
 .pun #vf td.tcl a {
 	font-weight: bold;
+    font-size: 16px;
 }
 
 .pun #vf td.tcl span a {
