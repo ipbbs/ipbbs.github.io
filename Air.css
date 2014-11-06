@@ -1609,3 +1609,9 @@ html, body, .pun {
 .pun .inew .icon {
 	border-color: #91b3d9 #87a8d1 #6c85bb #7292c3;
 }
+
+/* add  .syntaxhighlighter */
+
+.syntaxhighlighter {
+    overflow: scroll;
+}
