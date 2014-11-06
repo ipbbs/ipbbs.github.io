@@ -1448,7 +1448,8 @@ html, body, .pun {
 }
 
 .pun .blocktable td.tcl span.stickytext {
-	color: #3399CC;
+ /*	color: #3399CC; */
+    color: red;
 }
 
 
