@@ -1613,5 +1613,6 @@ html, body, .pun {
 /* add  .syntaxhighlighter */
 
 .syntaxhighlighter {
-    overflow: scroll;
+   /*  overflow: scroll; */
+    overflow: overlay;
 }
