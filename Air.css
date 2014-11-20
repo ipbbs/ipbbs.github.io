@@ -867,7 +867,7 @@ html, body, .pun table, .pun div, .pun form, .pun p, .pun h1, .pun h2, .pun h3, 
 
 .pun .usercontent ol, .pun .postmsg ol {
 	list-style: decimal;
-	padding: 4px 13px 4px 30px;
+	padding: 4px 13px 4px 60px;
 }
 
 .pun .usercontent ol.alpha, .pun .postmsg ol.alpha {
